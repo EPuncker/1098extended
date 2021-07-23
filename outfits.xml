@@ -98,6 +98,10 @@
 	<outfit type="0" looktype="1372" name="Rascoohan" premium="yes" unlocked="no" enabled="yes" />
 	<outfit type="0" looktype="1383" name="Merry Garb" premium="yes" unlocked="no" enabled="yes" />
 	<outfit type="0" looktype="1385" name="Rune Master" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="0" looktype="1387" name="Citizen of Issavi" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="0" looktype="1416" name="Forest Warden" premium="no" unlocked="no" enabled="yes" />
+	<outfit type="0" looktype="1437" name="Royal Bounacean Advisor" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="0" looktype="1445" name="Dragon Knight" premium="no" unlocked="no" enabled="yes" />
 
 	<!-- Male outfits -->
 	<outfit type="1" looktype="128" name="Citizen" premium="no" unlocked="yes" enabled="yes" />
@@ -197,4 +201,9 @@
 	<outfit type="1" looktype="1371" name="Rascoohan" premium="yes" unlocked="no" enabled="yes" />
 	<outfit type="1" looktype="1382" name="Merry Garb" premium="yes" unlocked="no" enabled="yes" />
 	<outfit type="1" looktype="1384" name="Rune Master" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="1415" name="Forest Warden" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="1386" name="Citizen of Issavi" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="1415" name="Forest Warden" premium="no" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="1436" name="Royal Bounacean Advisor" premium="yes" unlocked="no" enabled="yes" />
+	<outfit type="1" looktype="1444" name="Dragon Knight" premium="no" unlocked="no" enabled="yes" />
 </outfits>

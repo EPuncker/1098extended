@@ -187,4 +187,7 @@
 	<mount id="185" clientid="1439" name="Hyacinth" speed="20" premium="no" />
 	<mount id="186" clientid="1440" name="Peony" speed="20" premium="no" />
 	<mount id="187" clientid="1441" name="Dandelion" speed="20" premium="no" />
+	<mount id="188" clientid="1446" name="Rustwurm" speed="20" premium="no" />
+	<mount id="189" clientid="1447" name="Bogwurm" speed="20" premium="no" />
+	<mount id="190" clientid="1448" name="Gloomwurm" speed="20" premium="no" />
 </mounts>

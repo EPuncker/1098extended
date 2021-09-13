@@ -1,4 +1,4 @@
-Current Version: 12.63.10611
+Current Version: 12.70.10974
 =============
 
 What is this?
@@ -21,8 +21,7 @@ How To Use
 - Go to your TFS/data/items replace the items.otb and items.xml with the one downloaded here
 - Go to your TFS/data/XML and replace the outfits.xml and mounts.xml  with the one downloaded here
 
-Done, now you can start your server and client and enjoy all latest sprites,
-if you wanna check the IDs use RME, because right now the items have no name.
+Done, now you can start your server and client and enjoy all latest sprites.
 
 
 Other Applications
